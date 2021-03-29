@@ -1,0 +1,22 @@
+{
+  "name": "container_hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ympondaven/container_hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ympondaven/container_hello/issues"
+  },
+  "homepage": "https://github.com/ympondaven/container_hello#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
